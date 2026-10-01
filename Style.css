@@ -1,0 +1,8 @@
+.star-outline {
+  font-size: 30px;
+  color: #ffc107; /* Màu bên trong ngôi sao (vàng) */
+  
+  /* Tạo viền */
+  -webkit-text-stroke-width: 1px; /* Độ dày viền */
+  -webkit-text-stroke-color: #310707; /* Màu viền (đen) */
+}
